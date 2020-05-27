@@ -1,9 +1,6 @@
 ---
-
-
----
-
 <h1 id="loa---main-tips">LOA - main tips</h1>
+---
 <h1 id="mes-conseils---très-inexhaustifs">Mes conseils - très inexhaustifs</h1>
 <h2 id="menu-du-haut">1. Menu du haut</h2>
 <p>Geler les PE auto-rising engendrés pas le patrouillage en allant dans <strong>la bataille du zodiaque</strong> quand on a plus besoin des menus du haut. Quand je me déconnecte, je m’assure d’être dans le zodiaque.<br>
