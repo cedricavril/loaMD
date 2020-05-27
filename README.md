@@ -23,9 +23,9 @@ Donc quand je commence, je fais les principaux trucs du menu du haut, à savoir 
 <li><strong>Propriété</strong> : quêtes et enfant.</li>
 <li><strong>Fée</strong>s. <strong>Jardins</strong>. <strong>Terre brûlées</strong>. <strong>épopées</strong> et <strong>inferno</strong> si personne ne m’a encore invité (à privilégier si une invitation arrive).</li>
 <li><strong>Qui est qui</strong></li>
-<li>Trésor du jour (ou [dévotion][dévo])</li>
+  <li>Trésor du jour (ou <a href="#devo">dévotion</a>)</li>
 </ol>
-<h3 id="dévotion-dévotion">dévotion [dévotion]</h3>
+<h3 id="devo">dévotion</h3>
 <p>non exhaustif :</p>
 <ul>
 <li>J’améliore au moins trois fois de l’<strong>équipement</strong>.</li>
