@@ -35,7 +35,7 @@ Donc quand je commence, je fais les principaux trucs du menu du haut, à savoir 
 <li>en profiter dans perso pour faire des <strong>amélioration de gemmes</strong>, des <strong>up élémentaires</strong>, de la <strong>refonte</strong> (uniquement pour les équipements puissants moins destinés à être remplacés). surveiller et faire correspondre gemmes, refonte pour avoir des combi faisant changer la couleur des symboles en bas de l’image du perso.</li>
 </ul>
 </li>
-<li><strong>défi du zodiaque</strong> idem que tour éternelle</li>
+<li><strong>défi du zodiaque</strong> idem tour éternelle sans envol</li>
 <li><strong>zone élémentaire</strong> combattre les plus puissants, avec parcimonie puisque ça engendre des PE. obtenir les éléments les plus puissants. éléments : faire des combi de couleurs pour avoir un motif dans le centre.</li>
 <li><strong>onglet récupération de points</strong> : 60%, et éviter les récup qui engendre des <em>PE</em>.</li>
 <li>onglet <strong>classements</strong> : prendre tout sauf colisée.</li>
