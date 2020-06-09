@@ -32,7 +32,7 @@ Donc quand je commence, je fais les principaux trucs du menu du haut, à savoir 
 <li><strong>entrainement de héros</strong></li>
 <li><strong>amélioration de héros</strong>
 <ul>
-<li>en profiter dans perso pour faire des <strong>amélioration de gemmes</strong>, des <strong>up élémentaires</strong>, de la <strong>refonte</strong> (uniquement pour les équipements puissants destinés à être remplacés). surveiller et faire correspondre gemmes, refonte pour avoir des combi faisant changer la couleur des symboles en bas de l’image du perso.</li>
+<li>en profiter dans perso pour faire des <strong>amélioration de gemmes</strong>, des <strong>up élémentaires</strong>, de la <strong>refonte</strong> (uniquement pour les équipements puissants moins destinés à être remplacés). surveiller et faire correspondre gemmes, refonte pour avoir des combi faisant changer la couleur des symboles en bas de l’image du perso.</li>
 </ul>
 </li>
 <li><strong>défi du zodiaque</strong> idem que tour éternelle</li>
