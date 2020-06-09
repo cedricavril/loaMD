@@ -1,7 +1,7 @@
 <h1 id="loa---main-tips">LOA - main tips</h1>
 <h1 id="mes-conseils---très-inexhaustifs">Mes conseils - très inexhaustifs</h1>
 <h2 id="menu-du-haut">1. Menu du haut</h2>
-<p>Geler les PE auto-rising engendrés pas le patrouillage en allant dans <strong>la bataille du zodiaque</strong> quand on a plus besoin des menus du haut. Quand je me déconnecte, je m’assure d’être dans le zodiaque.<br>
+<p>Geler les PE auto-rising engendrés pas le patrouillage en allant dans <strong>la bataille du zodiaque</strong> quand on n'a plus besoin des menus du haut. Quand je me déconnecte, je m’assure d’être dans le zodiaque.<br>
 Donc quand je commence, je fais les principaux trucs du menu du haut, à savoir dans l’ordre :</p>
 <ol>
 <li><strong>Petit assistant</strong>, après éventuellement avoir utilisé des cartes d’énergies, de domptage, ou autre si besoin depuis perso. Je décoche ce qui peut servir à obtenir des <em>PE</em>, je décoche <strong>jardins</strong> et <strong>terres brûlées</strong> que je ferai manuellement, et je lance.
